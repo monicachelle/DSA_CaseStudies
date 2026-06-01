@@ -1,0 +1,29 @@
+Enter number of Patient IDs:
+13
+Enter Patient IDs:
+20
+30
+35
+40
+45
+50
+60
+65
+70
+75
+80
+85
+90
+
+AVL Tree after Insertion:
+20 30 35 40 45 50 60 65 70 75 80 85 90 
+
+Enter Patient ID to Search:
+65
+Patient ID Found
+
+Enter Patient ID to Delete:
+30
+
+AVL Tree after Deletion:
+20 35 40 45 50 60 65 70 75 80 85 90 

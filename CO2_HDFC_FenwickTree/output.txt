@@ -1,0 +1,66 @@
+Enter number of days:
+15
+Enter daily spend values:
+1200
+800
+0
+2400
+1500
+600
+0
+0
+3500
+0
+1100
+950
+700
+0
+0
+
+Fenwick Tree (BIT) Array:
+BIT[1] = 1200
+BIT[2] = 2000
+BIT[3] = 0
+BIT[4] = 4400
+BIT[5] = 1500
+BIT[6] = 2100
+BIT[7] = 0
+BIT[8] = 6500
+BIT[9] = 3500
+BIT[10] = 3500
+BIT[11] = 1100
+BIT[12] = 5550
+BIT[13] = 700
+BIT[14] = 700
+BIT[15] = 0
+
+Enter left range:
+5
+Enter right range:
+12
+
+Total Spend from Day 5 to Day 12 = ? 7650
+
+Enter day to update:
+10
+Enter amount to add:
+500
+
+BIT Array after Update:
+
+Fenwick Tree (BIT) Array:
+BIT[1] = 1200
+BIT[2] = 2000
+BIT[3] = 0
+BIT[4] = 4400
+BIT[5] = 1500
+BIT[6] = 2100
+BIT[7] = 0
+BIT[8] = 6500
+BIT[9] = 3500
+BIT[10] = 4000
+BIT[11] = 1100
+BIT[12] = 6050
+BIT[13] = 700
+BIT[14] = 700
+BIT[15] = 0
