@@ -1,0 +1,11 @@
+Maximum Value = ?175k
+
+Selected Consignments:
+A (Weight=5t, Value=?40k)
+C (Weight=3t, Value=?20k)
+D (Weight=10t, Value=?70k)
+E (Weight=4t, Value=?30k)
+H (Weight=2t, Value=?15k)
+
+Total Weight = 24 tons
+Total Value = ?175k

@@ -1,0 +1,9 @@
+Shortest Travel Time from MJC:
+MJC = 0 min
+KEM = 8 min
+JAY = 5 min
+KOR = 12 min
+WHF = 16 min
+HBR = 15 min
+MRT = 13 min
+
